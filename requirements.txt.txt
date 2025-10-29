@@ -1,0 +1,8 @@
+1. The system should allow the user to register with email and password.
+2. Users must be able to log in using their credentials.
+3. The system should send a confirmation email after registration.
+4. Users can reset their password if they forget it.
+5. The dashboard should display recent activities.
+6. The system should allow admin to delete user accounts.
+7. Users can upload profile pictures.
+8. The system should generate monthly activity reports.
